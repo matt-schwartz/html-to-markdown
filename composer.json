@@ -1,15 +1,19 @@
 {
-    "name": "nickcernis/html-to-markdown",
+    "name": "matt-schwartz/html-to-markdown",
     "type": "library",
     "description": "An HTML-to-markdown conversion helper for PHP",
     "keywords": ["markdown", "html"],
-    "homepage": "https://github.com/nickcernis/html-to-markdown",
+    "homepage": "https://github.com/matt-schwartz/html-to-markdown",
     "license": "MIT",
     "authors": [
         {
             "name": "Nick Cernis",
             "email": "nick@cern.is",
             "homepage": "http://modernnerd.net"
+        },
+        {
+            "name": "Matthew Schwartz",
+            "email": "matt@mattschwartz.net"
         }
     ],
     "autoload": {
